@@ -11,6 +11,6 @@ the architecture
 
 
 what i'm proud of
-"The sub-50ms latency with 100 concurrent players — that required careful attention to how WebSocket events are broadcast and how state is managed server-side without unnecessary re-broadcasts. Also open-sourced it with a real README so other students can fork it for college events."
+"The sub-50ms latency with 100 concurrent players — that required careful attention to how WebSocket events are broadcast and w server-side without unnecessary re-broadcasts. Also open-sourced it with a real README so other students can fork it for college events."
 
 Next.js WebSockets Gemini API Auth.js Prisma PostgreSQL 
